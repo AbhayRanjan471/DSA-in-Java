@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BinaryTreeNode.java&apos; to &apos;DSA_Lecture 11/src/Diameter_BinaryTree&apos;&#x0D;&#x0A;- Original project: &apos;DSA_Lecture 11&apos;&#x0D;&#x0A;- Destination element: &apos;DSA_Lecture 11/src/Diameter_BinaryTree&apos;&#x0D;&#x0A;- Original element: &apos;BinaryTree_Question.BinaryTreeNode.java&apos;" description="Copy compilation unit" destination="/src&lt;Diameter_BinaryTree" element1="/src&lt;BinaryTree_Question{BinaryTreeNode.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1633247146622" units="1" version="1.0"/>
+</session>
